@@ -9,6 +9,7 @@ Assume words are available in a dictionary.
 https://github.com/tmobil/telephoneKeypad/blob/master/english.json
 
 Input: 227
+
 Output: bar, cap, car, ...   
 
 Feel free to be creative, considering options such as words of differing character lengths, memory and performance considerations for the project.      
